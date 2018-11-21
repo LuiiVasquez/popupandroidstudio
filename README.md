@@ -1,2 +1,2 @@
 # popupandroidstudio
-Proyecto con diseño poup y boton
+Proyecto con diseño popup y boton
